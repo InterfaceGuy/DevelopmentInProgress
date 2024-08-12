@@ -2,12 +2,12 @@
   "nodes": [
     {
       "id": "f4c6f8e620327554",
+      "type": "file",
+      "file": "DevelopmentInProgress/MolochAndMiracleField/MolochAndMiracleField.mov",
       "x": -99,
       "y": -326,
       "width": 400,
-      "height": 225,
-      "type": "file",
-      "file": "DevelopmentInProgress/MolochAndMiracleField/MolochAndMiracleField.mov"
+      "height": 225
     }
   ],
   "edges": []
