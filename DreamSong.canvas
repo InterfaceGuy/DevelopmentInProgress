@@ -1,14 +1,9 @@
 {
-  "nodes": [
-    {
-      "id": "f4c6f8e620327554",
-      "type": "file",
-      "file": "DevelopmentInProgress/MolochAndMiracleField/MolochAndMiracleField.mov",
-      "x": -99,
-      "y": -326,
-      "width": 400,
-      "height": 225
-    }
-  ],
-  "edges": []
+	"nodes":[
+		{"id":"f4c6f8e620327554","type":"file","file":"DevelopmentInProgress/MolochAndMiracleField/MolochAndMiracleField.mov","x":-99,"y":-326,"width":400,"height":225},
+		{"id":"5f4407b5f9029c86","type":"text","text":"update colors:\n- red -> green\n- blue -> red","x":440,"y":-326,"width":380,"height":225}
+	],
+	"edges":[
+		{"id":"432b585bf24ca1b8","fromNode":"5f4407b5f9029c86","fromSide":"left","toNode":"f4c6f8e620327554","toSide":"right","toEnd":"none"}
+	]
 }
