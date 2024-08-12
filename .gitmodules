@@ -1,3 +1,6 @@
 [submodule "DreamSongUI"]
 	path = DreamSongUI
 	url = https://github.com/InterfaceGuy/DreamSongUI
+[submodule "MolochAndMiracleField"]
+	path = MolochAndMiracleField
+	url = https://github.com/InterfaceGuy/MolochAndMiracleField.git
